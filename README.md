@@ -217,6 +217,9 @@ The signals that don't fit an activity row: **tainted memory recall**, **undecla
   &nbsp;
   <a href="https://cloud.digitalocean.com/apps/new?repo=https://github.com/Justin0504/Aegis/tree/main">
     <img src="https://www.deploytodo.com/do-btn-blue.svg" alt="Deploy to DO" height="32"></a>
+  &nbsp;
+  <a href="https://repocloud.io/details/Aegis/">
+    <img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="32"></a>
 </p>
 
 <p align="center">
